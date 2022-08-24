@@ -1,0 +1,2487 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+                              /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                              /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                              /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                              /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x0000000000000000       0x24 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x0000000000000000        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x7c /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_line    0x0000000000000000       0x76 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_line_str
+                0x0000000000000000       0xa6 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_info    0x0000000000000000       0x24 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .debug_str     0x0000000000000000       0x98 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 Build/core_cm3.o
+ .data          0x0000000000000000        0x0 Build/core_cm3.o
+ .bss           0x0000000000000000        0x0 Build/core_cm3.o
+ .text.__get_PSP
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__set_PSP
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__get_MSP
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__set_MSP
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__get_BASEPRI
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__set_BASEPRI
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__get_PRIMASK
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__set_PRIMASK
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__get_FAULTMASK
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__set_FAULTMASK
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__get_CONTROL
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__set_CONTROL
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__REV    0x0000000000000000        0x4 Build/core_cm3.o
+ .text.__REV16  0x0000000000000000        0x4 Build/core_cm3.o
+ .text.__REVSH  0x0000000000000000        0x4 Build/core_cm3.o
+ .text.__RBIT   0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__LDREXB
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__LDREXH
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__LDREXW
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .text.__STREXB
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__STREXH
+                0x0000000000000000        0x8 Build/core_cm3.o
+ .text.__STREXW
+                0x0000000000000000        0x6 Build/core_cm3.o
+ .debug_info    0x0000000000000000      0x647 Build/core_cm3.o
+ .debug_abbrev  0x0000000000000000       0xd3 Build/core_cm3.o
+ .debug_loc     0x0000000000000000      0x3a2 Build/core_cm3.o
+ .debug_aranges
+                0x0000000000000000       0xc8 Build/core_cm3.o
+ .debug_ranges  0x0000000000000000       0xb8 Build/core_cm3.o
+ .debug_line    0x0000000000000000      0x31e Build/core_cm3.o
+ .debug_str     0x0000000000000000      0x2ed Build/core_cm3.o
+ .comment       0x0000000000000000       0x58 Build/core_cm3.o
+ .debug_frame   0x0000000000000000      0x170 Build/core_cm3.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/core_cm3.o
+ .text          0x0000000000000000        0x0 Build/system_stm32f10x.o
+ .data          0x0000000000000000        0x0 Build/system_stm32f10x.o
+ .bss           0x0000000000000000        0x0 Build/system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x54 Build/system_stm32f10x.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 Build/system_stm32f10x.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 Build/system_stm32f10x.o
+ .text          0x0000000000000000        0x0 Build/misc.o
+ .data          0x0000000000000000        0x0 Build/misc.o
+ .bss           0x0000000000000000        0x0 Build/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000000000       0x14 Build/misc.o
+ .text.NVIC_Init
+                0x0000000000000000       0x54 Build/misc.o
+ .text.NVIC_SetVectorTable
+                0x0000000000000000       0x14 Build/misc.o
+ .text.NVIC_SystemLPConfig
+                0x0000000000000000       0x18 Build/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x16 Build/misc.o
+ .debug_info    0x0000000000000000      0x591 Build/misc.o
+ .debug_abbrev  0x0000000000000000      0x194 Build/misc.o
+ .debug_loc     0x0000000000000000      0x189 Build/misc.o
+ .debug_aranges
+                0x0000000000000000       0x40 Build/misc.o
+ .debug_ranges  0x0000000000000000       0x30 Build/misc.o
+ .debug_line    0x0000000000000000      0x2c9 Build/misc.o
+ .debug_str     0x0000000000000000      0x3bb Build/misc.o
+ .comment       0x0000000000000000       0x58 Build/misc.o
+ .debug_frame   0x0000000000000000       0x6c Build/misc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/misc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_adc.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_adc.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x0000000000000000       0x60 Build/stm32f10x_adc.o
+ .text.ADC_Init
+                0x0000000000000000       0x48 Build/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x0000000000000000       0x10 Build/stm32f10x_adc.o
+ .text.ADC_Cmd  0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x0000000000000000        0xa Build/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x0000000000000000        0x8 Build/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x0000000000000000        0xa Build/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x0000000000000000        0x8 Build/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000        0x8 Build/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x10 Build/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x0000000000000000       0x8a Build/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x0000000000000000        0x6 Build/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000        0xc Build/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000        0xc Build/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x12 Build/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000        0x8 Build/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000       0x56 Build/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x10 Build/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x16 Build/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x1a Build/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x10 Build/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000        0x6 Build/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000        0xc Build/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x18 Build/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xc Build/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x0000000000000000        0x6 Build/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x16 Build/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000        0x8 Build/stm32f10x_adc.o
+ .debug_info    0x0000000000000000      0xdf6 Build/stm32f10x_adc.o
+ .debug_abbrev  0x0000000000000000      0x267 Build/stm32f10x_adc.o
+ .debug_loc     0x0000000000000000      0xc6c Build/stm32f10x_adc.o
+ .debug_aranges
+                0x0000000000000000      0x138 Build/stm32f10x_adc.o
+ .debug_ranges  0x0000000000000000      0x128 Build/stm32f10x_adc.o
+ .debug_line    0x0000000000000000      0xa2e Build/stm32f10x_adc.o
+ .debug_str     0x0000000000000000      0x715 Build/stm32f10x_adc.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_adc.o
+ .debug_frame   0x0000000000000000      0x290 Build/stm32f10x_adc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_adc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_bkp.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_bkp.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x0000000000000000       0x12 Build/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x0000000000000000        0xc Build/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x0000000000000000        0xc Build/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x0000000000000000        0xc Build/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x0000000000000000       0x18 Build/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x0000000000000000       0x18 Build/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x0000000000000000       0x1c Build/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x0000000000000000       0x20 Build/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x0000000000000000       0x10 Build/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x0000000000000000       0x14 Build/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x0000000000000000       0x10 Build/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x0000000000000000       0x14 Build/stm32f10x_bkp.o
+ .debug_info    0x0000000000000000      0x952 Build/stm32f10x_bkp.o
+ .debug_abbrev  0x0000000000000000      0x1ec Build/stm32f10x_bkp.o
+ .debug_loc     0x0000000000000000      0x12e Build/stm32f10x_bkp.o
+ .debug_aranges
+                0x0000000000000000       0x78 Build/stm32f10x_bkp.o
+ .debug_ranges  0x0000000000000000       0x68 Build/stm32f10x_bkp.o
+ .debug_line    0x0000000000000000      0x338 Build/stm32f10x_bkp.o
+ .debug_str     0x0000000000000000      0x5cb Build/stm32f10x_bkp.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_bkp.o
+ .debug_frame   0x0000000000000000       0xec Build/stm32f10x_bkp.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_bkp.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_can.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_can.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x0000000000000000       0x34 Build/stm32f10x_can.o
+ .text.CAN_Init
+                0x0000000000000000       0xd2 Build/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x0000000000000000       0xdc Build/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x0000000000000000       0x16 Build/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x0000000000000000       0x3c Build/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x0000000000000000       0x12 Build/stm32f10x_can.o
+ .text.CAN_TTComModeCmd
+                0x0000000000000000       0x58 Build/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x0000000000000000       0x9c Build/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x0000000000000000       0x58 Build/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x0000000000000000       0x24 Build/stm32f10x_can.o
+ .text.CAN_Receive
+                0x0000000000000000       0x96 Build/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x0000000000000000       0x16 Build/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x0000000000000000       0x16 Build/stm32f10x_can.o
+ .text.CAN_OperatingModeRequest
+                0x0000000000000000       0x88 Build/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x0000000000000000       0x1a Build/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x0000000000000000       0x22 Build/stm32f10x_can.o
+ .text.CAN_GetLastErrorCode
+                0x0000000000000000        0x8 Build/stm32f10x_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x0000000000000000        0x6 Build/stm32f10x_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x0000000000000000        0x8 Build/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x0000000000000000       0x10 Build/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x0000000000000000       0x30 Build/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x0000000000000000       0x30 Build/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x0000000000000000       0xc8 Build/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x0000000000000000       0x7c Build/stm32f10x_can.o
+ .debug_info    0x0000000000000000     0x1187 Build/stm32f10x_can.o
+ .debug_abbrev  0x0000000000000000      0x2f1 Build/stm32f10x_can.o
+ .debug_loc     0x0000000000000000      0xc4a Build/stm32f10x_can.o
+ .debug_aranges
+                0x0000000000000000       0xd8 Build/stm32f10x_can.o
+ .debug_ranges  0x0000000000000000      0x1b8 Build/stm32f10x_can.o
+ .debug_line    0x0000000000000000      0xd36 Build/stm32f10x_can.o
+ .debug_str     0x0000000000000000      0x748 Build/stm32f10x_can.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_can.o
+ .debug_frame   0x0000000000000000      0x1c8 Build/stm32f10x_can.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_can.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_cec.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_cec.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_cec.o
+ .text.CEC_DeInit
+                0x0000000000000000       0x1a Build/stm32f10x_cec.o
+ .text.CEC_Init
+                0x0000000000000000       0x1c Build/stm32f10x_cec.o
+ .text.CEC_Cmd  0x0000000000000000       0x18 Build/stm32f10x_cec.o
+ .text.CEC_ITConfig
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_OwnAddressConfig
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_SetPrescaler
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_SendDataByte
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_ReceiveDataByte
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_StartOfMessage
+                0x0000000000000000       0x10 Build/stm32f10x_cec.o
+ .text.CEC_EndOfMessageCmd
+                0x0000000000000000        0xc Build/stm32f10x_cec.o
+ .text.CEC_GetFlagStatus
+                0x0000000000000000       0x24 Build/stm32f10x_cec.o
+ .text.CEC_ClearFlag
+                0x0000000000000000       0x20 Build/stm32f10x_cec.o
+ .text.CEC_GetITStatus
+                0x0000000000000000       0x14 Build/stm32f10x_cec.o
+ .text.CEC_ClearITPendingBit
+                0x0000000000000000       0x20 Build/stm32f10x_cec.o
+ .debug_info    0x0000000000000000      0x502 Build/stm32f10x_cec.o
+ .debug_abbrev  0x0000000000000000      0x25b Build/stm32f10x_cec.o
+ .debug_loc     0x0000000000000000      0x245 Build/stm32f10x_cec.o
+ .debug_aranges
+                0x0000000000000000       0x88 Build/stm32f10x_cec.o
+ .debug_ranges  0x0000000000000000       0x78 Build/stm32f10x_cec.o
+ .debug_line    0x0000000000000000      0x3e5 Build/stm32f10x_cec.o
+ .debug_str     0x0000000000000000      0x390 Build/stm32f10x_cec.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_cec.o
+ .debug_frame   0x0000000000000000      0x10c Build/stm32f10x_cec.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_cec.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_crc.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_crc.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x0000000000000000        0xc Build/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x0000000000000000        0xc Build/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x0000000000000000       0x1c Build/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x0000000000000000        0xc Build/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x0000000000000000        0xc Build/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x0000000000000000        0xc Build/stm32f10x_crc.o
+ .debug_info    0x0000000000000000      0x22f Build/stm32f10x_crc.o
+ .debug_abbrev  0x0000000000000000      0x134 Build/stm32f10x_crc.o
+ .debug_loc     0x0000000000000000       0x83 Build/stm32f10x_crc.o
+ .debug_aranges
+                0x0000000000000000       0x48 Build/stm32f10x_crc.o
+ .debug_ranges  0x0000000000000000       0x38 Build/stm32f10x_crc.o
+ .debug_line    0x0000000000000000      0x1ff Build/stm32f10x_crc.o
+ .debug_str     0x0000000000000000      0x23e Build/stm32f10x_crc.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_crc.o
+ .debug_frame   0x0000000000000000       0x70 Build/stm32f10x_crc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_crc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_dac.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_dac.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x0000000000000000       0x1a Build/stm32f10x_dac.o
+ .text.DAC_Init
+                0x0000000000000000       0x2c Build/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x0000000000000000        0xc Build/stm32f10x_dac.o
+ .text.DAC_Cmd  0x0000000000000000       0x1c Build/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x0000000000000000       0x20 Build/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x0000000000000000       0x20 Build/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x0000000000000000       0x18 Build/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x0000000000000000       0x1c Build/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x0000000000000000       0x20 Build/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x0000000000000000       0x20 Build/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x0000000000000000       0x18 Build/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x0000000000000000       0x24 Build/stm32f10x_dac.o
+ .debug_info    0x0000000000000000      0x5ad Build/stm32f10x_dac.o
+ .debug_abbrev  0x0000000000000000      0x249 Build/stm32f10x_dac.o
+ .debug_loc     0x0000000000000000      0x335 Build/stm32f10x_dac.o
+ .debug_aranges
+                0x0000000000000000       0x78 Build/stm32f10x_dac.o
+ .debug_ranges  0x0000000000000000       0x68 Build/stm32f10x_dac.o
+ .debug_line    0x0000000000000000      0x423 Build/stm32f10x_dac.o
+ .debug_str     0x0000000000000000      0x3c9 Build/stm32f10x_dac.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_dac.o
+ .debug_frame   0x0000000000000000      0x100 Build/stm32f10x_dac.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_dac.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_dbgmcu.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_dbgmcu.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x0000000000000000        0xc Build/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000       0x10 Build/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x0000000000000000       0x18 Build/stm32f10x_dbgmcu.o
+ .debug_info    0x0000000000000000      0x158 Build/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x0000000000000000       0xe7 Build/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x0000000000000000       0x30 Build/stm32f10x_dbgmcu.o
+ .debug_ranges  0x0000000000000000       0x20 Build/stm32f10x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x18f Build/stm32f10x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x1f5 Build/stm32f10x_dbgmcu.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_dbgmcu.o
+ .debug_frame   0x0000000000000000       0x40 Build/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_dbgmcu.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_dma.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_dma.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_dma.o
+ .text.DMA_DeInit
+                0x0000000000000000       0xf4 Build/stm32f10x_dma.o
+ .text.DMA_Init
+                0x0000000000000000       0x3c Build/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x0000000000000000       0x1a Build/stm32f10x_dma.o
+ .text.DMA_Cmd  0x0000000000000000       0x16 Build/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x0000000000000000       0x10 Build/stm32f10x_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x0000000000000000        0x4 Build/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000        0x6 Build/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x1c Build/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x14 Build/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x0000000000000000        0x4 Build/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000        0x4 Build/stm32f10x_dma.o
+ .debug_info    0x0000000000000000      0x4cb Build/stm32f10x_dma.o
+ .debug_abbrev  0x0000000000000000      0x1e4 Build/stm32f10x_dma.o
+ .debug_loc     0x0000000000000000      0x145 Build/stm32f10x_dma.o
+ .debug_aranges
+                0x0000000000000000       0x60 Build/stm32f10x_dma.o
+ .debug_ranges  0x0000000000000000       0x50 Build/stm32f10x_dma.o
+ .debug_line    0x0000000000000000      0x469 Build/stm32f10x_dma.o
+ .debug_str     0x0000000000000000      0x3ba Build/stm32f10x_dma.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_dma.o
+ .debug_frame   0x0000000000000000       0xc8 Build/stm32f10x_dma.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_dma.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_exti.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_exti.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x1c Build/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x0000000000000000       0x6c Build/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x0000000000000000        0xe Build/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x10 Build/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x14 Build/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x0000000000000000        0xc Build/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x1c Build/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000        0xc Build/stm32f10x_exti.o
+ .debug_info    0x0000000000000000      0x3a7 Build/stm32f10x_exti.o
+ .debug_abbrev  0x0000000000000000      0x1f0 Build/stm32f10x_exti.o
+ .debug_loc     0x0000000000000000      0x19b Build/stm32f10x_exti.o
+ .debug_aranges
+                0x0000000000000000       0x50 Build/stm32f10x_exti.o
+ .debug_ranges  0x0000000000000000       0x40 Build/stm32f10x_exti.o
+ .debug_line    0x0000000000000000      0x30f Build/stm32f10x_exti.o
+ .debug_str     0x0000000000000000      0x34c Build/stm32f10x_exti.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_exti.o
+ .debug_frame   0x0000000000000000       0x9c Build/stm32f10x_exti.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_exti.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_flash.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_flash.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x0000000000000000       0x14 Build/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x0000000000000000       0x18 Build/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x0000000000000000       0x18 Build/stm32f10x_flash.o
+ .text.FLASH_Unlock
+                0x0000000000000000       0x18 Build/stm32f10x_flash.o
+ .text.FLASH_UnlockBank1
+                0x0000000000000000        0x4 Build/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x0000000000000000       0x10 Build/stm32f10x_flash.o
+ .text.FLASH_LockBank1
+                0x0000000000000000        0x4 Build/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000        0xc Build/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000        0xc Build/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x10 Build/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x0000000000000000       0x10 Build/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x18 Build/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x20 Build/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0xc Build/stm32f10x_flash.o
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x28 Build/stm32f10x_flash.o
+ .text.FLASH_GetBank1Status
+                0x0000000000000000       0x28 Build/stm32f10x_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x22 Build/stm32f10x_flash.o
+ .text.FLASH_ErasePage
+                0x0000000000000000       0x40 Build/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x3c Build/stm32f10x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x0000000000000000        0x4 Build/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000       0x80 Build/stm32f10x_flash.o
+ .text.FLASH_ProgramWord
+                0x0000000000000000       0x58 Build/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0x38 Build/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000       0x4c Build/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000       0xa8 Build/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000       0x94 Build/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000       0x5c Build/stm32f10x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x0000000000000000        0x4 Build/stm32f10x_flash.o
+ .debug_info    0x0000000000000000      0xb26 Build/stm32f10x_flash.o
+ .debug_abbrev  0x0000000000000000      0x296 Build/stm32f10x_flash.o
+ .debug_loc     0x0000000000000000      0x97c Build/stm32f10x_flash.o
+ .debug_aranges
+                0x0000000000000000       0xd8 Build/stm32f10x_flash.o
+ .debug_ranges  0x0000000000000000       0xc8 Build/stm32f10x_flash.o
+ .debug_line    0x0000000000000000      0x941 Build/stm32f10x_flash.o
+ .debug_str     0x0000000000000000      0x5eb Build/stm32f10x_flash.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_flash.o
+ .debug_frame   0x0000000000000000      0x244 Build/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_flash.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_fsmc.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_fsmc.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x0000000000000000       0x28 Build/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x0000000000000000       0x34 Build/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x0000000000000000       0x22 Build/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x0000000000000000       0xb4 Build/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x0000000000000000       0x70 Build/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x0000000000000000       0x6c Build/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x0000000000000000       0x4e Build/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x0000000000000000       0x2a Build/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x0000000000000000       0x2a Build/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x0000000000000000       0x24 Build/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x0000000000000000       0x3c Build/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x0000000000000000       0x24 Build/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x0000000000000000       0x3c Build/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x0000000000000000       0x10 Build/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x0000000000000000       0x54 Build/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x0000000000000000       0x24 Build/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x0000000000000000       0x32 Build/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x0000000000000000       0x2c Build/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x0000000000000000       0x32 Build/stm32f10x_fsmc.o
+ .debug_info    0x0000000000000000      0xa92 Build/stm32f10x_fsmc.o
+ .debug_abbrev  0x0000000000000000      0x202 Build/stm32f10x_fsmc.o
+ .debug_loc     0x0000000000000000      0x5ed Build/stm32f10x_fsmc.o
+ .debug_aranges
+                0x0000000000000000       0xb0 Build/stm32f10x_fsmc.o
+ .debug_ranges  0x0000000000000000       0xa0 Build/stm32f10x_fsmc.o
+ .debug_line    0x0000000000000000      0x8cc Build/stm32f10x_fsmc.o
+ .debug_str     0x0000000000000000      0x77d Build/stm32f10x_fsmc.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_fsmc.o
+ .debug_frame   0x0000000000000000      0x168 Build/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_fsmc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_gpio.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_gpio.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xb8 Build/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x16 Build/stm32f10x_gpio.o
+ .text.GPIO_Init
+                0x0000000000000000       0xa2 Build/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000        0xe Build/stm32f10x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000        0xc Build/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x6 Build/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc Build/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x6 Build/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0x4 Build/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 Build/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xa Build/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 Build/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x10 Build/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x1c Build/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000        0xc Build/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000       0x60 Build/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x2a Build/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000        0xc Build/stm32f10x_gpio.o
+ .debug_info    0x0000000000000000      0x8fb Build/stm32f10x_gpio.o
+ .debug_abbrev  0x0000000000000000      0x27d Build/stm32f10x_gpio.o
+ .debug_loc     0x0000000000000000      0x69f Build/stm32f10x_gpio.o
+ .debug_aranges
+                0x0000000000000000       0xa8 Build/stm32f10x_gpio.o
+ .debug_ranges  0x0000000000000000       0x98 Build/stm32f10x_gpio.o
+ .debug_line    0x0000000000000000      0x675 Build/stm32f10x_gpio.o
+ .debug_str     0x0000000000000000      0x533 Build/stm32f10x_gpio.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_gpio.o
+ .debug_frame   0x0000000000000000      0x170 Build/stm32f10x_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_gpio.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_i2c.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_i2c.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x34 Build/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x0000000000000000       0xd4 Build/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x1c Build/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x14 Build/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x0000000000000000       0x12 Build/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x0000000000000000        0x4 Build/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000        0x6 Build/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x12 Build/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x0000000000000000       0x1c Build/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x0000000000000000       0x1c Build/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x0000000000000000        0x4 Build/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x0000000000000000        0x8 Build/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x1c Build/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x18 Build/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x10 Build/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x34 Build/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000        0x8 Build/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x1c Build/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000        0x8 Build/stm32f10x_i2c.o
+ .debug_info    0x0000000000000000      0xd36 Build/stm32f10x_i2c.o
+ .debug_abbrev  0x0000000000000000      0x29d Build/stm32f10x_i2c.o
+ .debug_loc     0x0000000000000000      0x89c Build/stm32f10x_i2c.o
+ .debug_aranges
+                0x0000000000000000      0x110 Build/stm32f10x_i2c.o
+ .debug_ranges  0x0000000000000000      0x100 Build/stm32f10x_i2c.o
+ .debug_line    0x0000000000000000      0x8cc Build/stm32f10x_i2c.o
+ .debug_str     0x0000000000000000      0x692 Build/stm32f10x_i2c.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_i2c.o
+ .debug_frame   0x0000000000000000      0x258 Build/stm32f10x_i2c.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_i2c.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_iwdg.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_iwdg.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000        0xc Build/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x0000000000000000        0xc Build/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x0000000000000000        0xc Build/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x0000000000000000       0x10 Build/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x0000000000000000       0x10 Build/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000       0x14 Build/stm32f10x_iwdg.o
+ .debug_info    0x0000000000000000      0x225 Build/stm32f10x_iwdg.o
+ .debug_abbrev  0x0000000000000000      0x13d Build/stm32f10x_iwdg.o
+ .debug_loc     0x0000000000000000       0x4f Build/stm32f10x_iwdg.o
+ .debug_aranges
+                0x0000000000000000       0x48 Build/stm32f10x_iwdg.o
+ .debug_ranges  0x0000000000000000       0x38 Build/stm32f10x_iwdg.o
+ .debug_line    0x0000000000000000      0x1df Build/stm32f10x_iwdg.o
+ .debug_str     0x0000000000000000      0x25f Build/stm32f10x_iwdg.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_iwdg.o
+ .debug_frame   0x0000000000000000       0x70 Build/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_iwdg.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_pwr.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_pwr.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x0000000000000000       0x1a Build/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000        0xc Build/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x0000000000000000        0xc Build/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x14 Build/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000        0xc Build/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000       0x34 Build/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x20 Build/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x14 Build/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x0000000000000000       0x10 Build/stm32f10x_pwr.o
+ .debug_info    0x0000000000000000      0x534 Build/stm32f10x_pwr.o
+ .debug_abbrev  0x0000000000000000      0x218 Build/stm32f10x_pwr.o
+ .debug_loc     0x0000000000000000       0xf5 Build/stm32f10x_pwr.o
+ .debug_aranges
+                0x0000000000000000       0x60 Build/stm32f10x_pwr.o
+ .debug_ranges  0x0000000000000000       0x50 Build/stm32f10x_pwr.o
+ .debug_line    0x0000000000000000      0x344 Build/stm32f10x_pwr.o
+ .debug_str     0x0000000000000000      0x32c Build/stm32f10x_pwr.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_pwr.o
+ .debug_frame   0x0000000000000000       0xac Build/stm32f10x_pwr.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_pwr.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_rcc.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_rcc.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x40 Build/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x38 Build/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 Build/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 Build/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x10 Build/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0x80 Build/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x18 Build/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x28 Build/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x30 Build/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 Build/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 Build/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc Build/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x0000000000000000        0x4 Build/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 Build/stm32f10x_rcc.o
+ .debug_info    0x0000000000000000      0x9ff Build/stm32f10x_rcc.o
+ .debug_abbrev  0x0000000000000000      0x240 Build/stm32f10x_rcc.o
+ .debug_loc     0x0000000000000000      0x4ff Build/stm32f10x_rcc.o
+ .debug_aranges
+                0x0000000000000000      0x118 Build/stm32f10x_rcc.o
+ .debug_ranges  0x0000000000000000      0x108 Build/stm32f10x_rcc.o
+ .debug_line    0x0000000000000000      0x84e Build/stm32f10x_rcc.o
+ .debug_str     0x0000000000000000      0x61d Build/stm32f10x_rcc.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_rcc.o
+ .debug_frame   0x0000000000000000      0x220 Build/stm32f10x_rcc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_rcc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_rtc.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_rtc.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x0000000000000000       0x18 Build/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x0000000000000000       0x14 Build/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x0000000000000000       0x14 Build/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x0000000000000000       0x24 Build/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x0000000000000000       0x1c Build/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x20 Build/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x0000000000000000       0x1c Build/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x0000000000000000       0x18 Build/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x0000000000000000       0x10 Build/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x0000000000000000       0x1c Build/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000       0x14 Build/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x0000000000000000       0x14 Build/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x0000000000000000       0x24 Build/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x0000000000000000        0x4 Build/stm32f10x_rtc.o
+ .debug_info    0x0000000000000000      0x538 Build/stm32f10x_rtc.o
+ .debug_abbrev  0x0000000000000000      0x210 Build/stm32f10x_rtc.o
+ .debug_loc     0x0000000000000000      0x299 Build/stm32f10x_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x80 Build/stm32f10x_rtc.o
+ .debug_ranges  0x0000000000000000       0x70 Build/stm32f10x_rtc.o
+ .debug_line    0x0000000000000000      0x3b6 Build/stm32f10x_rtc.o
+ .debug_str     0x0000000000000000      0x3b1 Build/stm32f10x_rtc.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_rtc.o
+ .debug_frame   0x0000000000000000      0x114 Build/stm32f10x_rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_rtc.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_sdio.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_sdio.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x0000000000000000       0x24 Build/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x0000000000000000       0x30 Build/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x0000000000000000       0x10 Build/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x0000000000000000       0x10 Build/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x0000000000000000       0x18 Build/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x0000000000000000       0x2c Build/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x0000000000000000        0xe Build/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x0000000000000000       0x18 Build/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x0000000000000000       0x2c Build/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x0000000000000000       0x14 Build/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x0000000000000000       0x14 Build/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x0000000000000000       0x14 Build/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x0000000000000000        0x4 Build/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x0000000000000000        0xc Build/stm32f10x_sdio.o
+ .debug_info    0x0000000000000000      0x903 Build/stm32f10x_sdio.o
+ .debug_abbrev  0x0000000000000000      0x2ae Build/stm32f10x_sdio.o
+ .debug_loc     0x0000000000000000      0x210 Build/stm32f10x_sdio.o
+ .debug_aranges
+                0x0000000000000000       0xf8 Build/stm32f10x_sdio.o
+ .debug_ranges  0x0000000000000000       0xe8 Build/stm32f10x_sdio.o
+ .debug_line    0x0000000000000000      0x5e4 Build/stm32f10x_sdio.o
+ .debug_str     0x0000000000000000      0x633 Build/stm32f10x_sdio.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_sdio.o
+ .debug_frame   0x0000000000000000      0x210 Build/stm32f10x_sdio.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_sdio.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_spi.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_spi.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x64 Build/stm32f10x_spi.o
+ .text.SPI_Init
+                0x0000000000000000       0x3e Build/stm32f10x_spi.o
+ .text.I2S_Init
+                0x0000000000000000       0x9c Build/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x18 Build/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x0000000000000000        0xe Build/stm32f10x_spi.o
+ .text.SPI_Cmd  0x0000000000000000       0x18 Build/stm32f10x_spi.o
+ .text.I2S_Cmd  0x0000000000000000       0x18 Build/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x1e Build/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x12 Build/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000        0x4 Build/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000        0x6 Build/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x1e Build/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x18 Build/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x16 Build/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000        0xc Build/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x18 Build/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x0000000000000000        0xc Build/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0x6 Build/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x1c Build/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000        0xc Build/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0x8 Build/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x26 Build/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x10 Build/stm32f10x_spi.o
+ .debug_info    0x0000000000000000      0xb55 Build/stm32f10x_spi.o
+ .debug_abbrev  0x0000000000000000      0x253 Build/stm32f10x_spi.o
+ .debug_loc     0x0000000000000000      0x796 Build/stm32f10x_spi.o
+ .debug_aranges
+                0x0000000000000000       0xd0 Build/stm32f10x_spi.o
+ .debug_ranges  0x0000000000000000       0xc0 Build/stm32f10x_spi.o
+ .debug_line    0x0000000000000000      0x724 Build/stm32f10x_spi.o
+ .debug_str     0x0000000000000000      0x640 Build/stm32f10x_spi.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_spi.o
+ .debug_frame   0x0000000000000000      0x1c0 Build/stm32f10x_spi.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_spi.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_tim.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_tim.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_tim.o
+ .text.TI1_Config
+                0x0000000000000000       0x6c Build/stm32f10x_tim.o
+ .text.TI2_Config
+                0x0000000000000000       0x78 Build/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x0000000000000000      0x1c8 Build/stm32f10x_tim.o
+ .text.TIM_TimeBaseInit
+                0x0000000000000000       0x94 Build/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x0000000000000000       0x88 Build/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x0000000000000000       0x80 Build/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x0000000000000000       0x7c Build/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x0000000000000000       0x68 Build/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x22 Build/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x12 Build/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x12 Build/stm32f10x_tim.o
+ .text.TIM_Cmd  0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x1c Build/stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x0000000000000000       0x12 Build/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x0000000000000000        0x8 Build/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x0000000000000000        0xe Build/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x1a Build/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x34 Build/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x12 Build/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0x3e Build/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x10 Build/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x14 Build/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x1c Build/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x1c Build/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x0000000000000000       0x42 Build/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x18 Build/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x0000000000000000        0x4 Build/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x1a Build/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x0000000000000000       0x62 Build/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x1a Build/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x0000000000000000      0x130 Build/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x0000000000000000        0x8 Build/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x0000000000000000        0x6 Build/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x0000000000000000        0xc Build/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x0000000000000000        0x8 Build/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x0000000000000000       0x16 Build/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x0000000000000000        0x8 Build/stm32f10x_tim.o
+ .debug_info    0x0000000000000000     0x25ba Build/stm32f10x_tim.o
+ .debug_abbrev  0x0000000000000000      0x372 Build/stm32f10x_tim.o
+ .debug_loc     0x0000000000000000     0x1b58 Build/stm32f10x_tim.o
+ .debug_aranges
+                0x0000000000000000      0x2d0 Build/stm32f10x_tim.o
+ .debug_ranges  0x0000000000000000      0x300 Build/stm32f10x_tim.o
+ .debug_line    0x0000000000000000     0x1a1a Build/stm32f10x_tim.o
+ .debug_str     0x0000000000000000      0xe0e Build/stm32f10x_tim.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_tim.o
+ .debug_frame   0x0000000000000000      0x6b0 Build/stm32f10x_tim.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_tim.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_usart.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_usart.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x0000000000000000       0x9c Build/stm32f10x_usart.o
+ .text.USART_Init
+                0x0000000000000000       0xa4 Build/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x14 Build/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x20 Build/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x0000000000000000        0xc Build/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x0000000000000000       0x32 Build/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x12 Build/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x16 Build/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x16 Build/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x16 Build/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_SendData
+                0x0000000000000000        0x8 Build/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000        0x8 Build/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x0000000000000000        0xc Build/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x12 Build/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x12 Build/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x16 Build/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x18 Build/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000        0xc Build/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000        0x8 Build/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x0000000000000000       0x3c Build/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000        0xe Build/stm32f10x_usart.o
+ .debug_info    0x0000000000000000      0xc8f Build/stm32f10x_usart.o
+ .debug_abbrev  0x0000000000000000      0x259 Build/stm32f10x_usart.o
+ .debug_loc     0x0000000000000000      0x960 Build/stm32f10x_usart.o
+ .debug_aranges
+                0x0000000000000000      0x100 Build/stm32f10x_usart.o
+ .debug_ranges  0x0000000000000000       0xf0 Build/stm32f10x_usart.o
+ .debug_line    0x0000000000000000      0x89c Build/stm32f10x_usart.o
+ .debug_str     0x0000000000000000      0x6d3 Build/stm32f10x_usart.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_usart.o
+ .debug_frame   0x0000000000000000      0x220 Build/stm32f10x_usart.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_usart.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_wwdg.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_wwdg.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x0000000000000000       0x1a Build/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x14 Build/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x28 Build/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x10 Build/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x0000000000000000       0x10 Build/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x0000000000000000       0x10 Build/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000        0xc Build/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x0000000000000000        0xc Build/stm32f10x_wwdg.o
+ .debug_info    0x0000000000000000      0x2c1 Build/stm32f10x_wwdg.o
+ .debug_abbrev  0x0000000000000000      0x1ab Build/stm32f10x_wwdg.o
+ .debug_loc     0x0000000000000000       0xea Build/stm32f10x_wwdg.o
+ .debug_aranges
+                0x0000000000000000       0x58 Build/stm32f10x_wwdg.o
+ .debug_ranges  0x0000000000000000       0x48 Build/stm32f10x_wwdg.o
+ .debug_line    0x0000000000000000      0x29a Build/stm32f10x_wwdg.o
+ .debug_str     0x0000000000000000      0x287 Build/stm32f10x_wwdg.o
+ .comment       0x0000000000000000       0x58 Build/stm32f10x_wwdg.o
+ .debug_frame   0x0000000000000000       0xa4 Build/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x2d Build/stm32f10x_wwdg.o
+ .text          0x0000000000000000        0x0 Build/main.o
+ .data          0x0000000000000000        0x0 Build/main.o
+ .bss           0x0000000000000000        0x0 Build/main.o
+ .text          0x0000000000000000        0x0 Build/stm32f10x_it.o
+ .data          0x0000000000000000        0x0 Build/stm32f10x_it.o
+ .bss           0x0000000000000000        0x0 Build/stm32f10x_it.o
+ .text          0x0000000000000000       0x14 Build/startup_stm32f10x_hd.o
+ .data          0x0000000000000000        0x0 Build/startup_stm32f10x_hd.o
+ .bss           0x0000000000000000        0x0 Build/startup_stm32f10x_hd.o
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x7cb /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1d2 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_loclists
+                0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_rnglists
+                0x0000000000000000       0x13 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x1fa /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x585 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x58 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x7fc /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x15a /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000      0x154 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x5bb /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x58 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x10b /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xc9 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_loclists
+                0x0000000000000000       0x34 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_rnglists
+                0x0000000000000000       0x13 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000000000      0x16d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x268 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x58 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_info    0x0000000000000000       0xe0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000000       0x9e /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_loclists
+                0x0000000000000000       0x3b /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_rnglists
+                0x0000000000000000       0x13 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_line    0x0000000000000000      0x16f /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_str     0x0000000000000000      0x209 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x58 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x0000000000000000       0x24 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000010000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD Build/core_cm3.o
+LOAD Build/system_stm32f10x.o
+LOAD Build/misc.o
+LOAD Build/stm32f10x_adc.o
+LOAD Build/stm32f10x_bkp.o
+LOAD Build/stm32f10x_can.o
+LOAD Build/stm32f10x_cec.o
+LOAD Build/stm32f10x_crc.o
+LOAD Build/stm32f10x_dac.o
+LOAD Build/stm32f10x_dbgmcu.o
+LOAD Build/stm32f10x_dma.o
+LOAD Build/stm32f10x_exti.o
+LOAD Build/stm32f10x_flash.o
+LOAD Build/stm32f10x_fsmc.o
+LOAD Build/stm32f10x_gpio.o
+LOAD Build/stm32f10x_i2c.o
+LOAD Build/stm32f10x_iwdg.o
+LOAD Build/stm32f10x_pwr.o
+LOAD Build/stm32f10x_rcc.o
+LOAD Build/stm32f10x_rtc.o
+LOAD Build/stm32f10x_sdio.o
+LOAD Build/stm32f10x_spi.o
+LOAD Build/stm32f10x_tim.o
+LOAD Build/stm32f10x_usart.o
+LOAD Build/stm32f10x_wwdg.o
+LOAD Build/main.o
+LOAD Build/stm32f10x_it.o
+LOAD Build/startup_stm32f10x_hd.o
+START GROUP
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020010000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1e4
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1e4 Build/startup_stm32f10x_hd.o
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001e4                . = ALIGN (0x4)
+
+.text           0x00000000080001e4      0x240
+                0x00000000080001e4                . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00000000080001e4       0x1c /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x0000000008000200       0x24 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x0000000008000224       0x28 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x000000000800024c       0x24 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.SystemInit
+                0x0000000008000270       0xf0 Build/system_stm32f10x.o
+                0x0000000008000270                SystemInit
+ .text.LED_Init
+                0x0000000008000360       0x1c Build/main.o
+                0x0000000008000360                LED_Init
+ .text.delay    0x000000000800037c       0x12 Build/main.o
+                0x000000000800037c                delay
+ *fill*         0x000000000800038e        0x2 
+ .text.startup.main
+                0x0000000008000390       0x20 Build/main.o
+                0x0000000008000390                main
+ .text.NMI_Handler
+                0x00000000080003b0        0x2 Build/stm32f10x_it.o
+                0x00000000080003b0                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080003b2        0x2 Build/stm32f10x_it.o
+                0x00000000080003b2                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080003b4        0x2 Build/stm32f10x_it.o
+                0x00000000080003b4                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080003b6        0x2 Build/stm32f10x_it.o
+                0x00000000080003b6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080003b8        0x2 Build/stm32f10x_it.o
+                0x00000000080003b8                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080003ba        0x2 Build/stm32f10x_it.o
+                0x00000000080003ba                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080003bc        0x2 Build/stm32f10x_it.o
+                0x00000000080003bc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080003be        0x2 Build/stm32f10x_it.o
+                0x00000000080003be                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080003c0        0x2 Build/stm32f10x_it.o
+                0x00000000080003c0                SysTick_Handler
+ *fill*         0x00000000080003c2        0x2 
+ .text.Reset_Handler
+                0x00000000080003c4       0x44 Build/startup_stm32f10x_hd.o
+                0x00000000080003c4                Reset_Handler
+ .text.Default_Handler
+                0x0000000008000408        0x2 Build/startup_stm32f10x_hd.o
+                0x0000000008000408                EXTI2_IRQHandler
+                0x0000000008000408                TIM8_TRG_COM_IRQHandler
+                0x0000000008000408                TIM8_CC_IRQHandler
+                0x0000000008000408                TIM1_CC_IRQHandler
+                0x0000000008000408                TIM6_IRQHandler
+                0x0000000008000408                PVD_IRQHandler
+                0x0000000008000408                SDIO_IRQHandler
+                0x0000000008000408                EXTI3_IRQHandler
+                0x0000000008000408                EXTI0_IRQHandler
+                0x0000000008000408                I2C2_EV_IRQHandler
+                0x0000000008000408                ADC1_2_IRQHandler
+                0x0000000008000408                SPI1_IRQHandler
+                0x0000000008000408                TAMPER_IRQHandler
+                0x0000000008000408                TIM8_UP_IRQHandler
+                0x0000000008000408                DMA2_Channel2_IRQHandler
+                0x0000000008000408                DMA1_Channel4_IRQHandler
+                0x0000000008000408                USART3_IRQHandler
+                0x0000000008000408                RTC_IRQHandler
+                0x0000000008000408                DMA1_Channel7_IRQHandler
+                0x0000000008000408                CAN1_RX1_IRQHandler
+                0x0000000008000408                UART5_IRQHandler
+                0x0000000008000408                ADC3_IRQHandler
+                0x0000000008000408                TIM4_IRQHandler
+                0x0000000008000408                DMA2_Channel1_IRQHandler
+                0x0000000008000408                I2C1_EV_IRQHandler
+                0x0000000008000408                DMA1_Channel6_IRQHandler
+                0x0000000008000408                UART4_IRQHandler
+                0x0000000008000408                TIM3_IRQHandler
+                0x0000000008000408                RCC_IRQHandler
+                0x0000000008000408                TIM1_TRG_COM_IRQHandler
+                0x0000000008000408                DMA1_Channel1_IRQHandler
+                0x0000000008000408                Default_Handler
+                0x0000000008000408                EXTI15_10_IRQHandler
+                0x0000000008000408                TIM7_IRQHandler
+                0x0000000008000408                TIM5_IRQHandler
+                0x0000000008000408                EXTI9_5_IRQHandler
+                0x0000000008000408                SPI2_IRQHandler
+                0x0000000008000408                DMA1_Channel5_IRQHandler
+                0x0000000008000408                EXTI4_IRQHandler
+                0x0000000008000408                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000008000408                USB_HP_CAN1_TX_IRQHandler
+                0x0000000008000408                DMA1_Channel3_IRQHandler
+                0x0000000008000408                FSMC_IRQHandler
+                0x0000000008000408                TIM1_UP_IRQHandler
+                0x0000000008000408                WWDG_IRQHandler
+                0x0000000008000408                TIM2_IRQHandler
+                0x0000000008000408                TIM1_BRK_IRQHandler
+                0x0000000008000408                EXTI1_IRQHandler
+                0x0000000008000408                RTCAlarm_IRQHandler
+                0x0000000008000408                DMA2_Channel4_5_IRQHandler
+                0x0000000008000408                USART2_IRQHandler
+                0x0000000008000408                I2C2_ER_IRQHandler
+                0x0000000008000408                DMA1_Channel2_IRQHandler
+                0x0000000008000408                TIM8_BRK_IRQHandler
+                0x0000000008000408                CAN1_SCE_IRQHandler
+                0x0000000008000408                FLASH_IRQHandler
+                0x0000000008000408                USART1_IRQHandler
+                0x0000000008000408                SPI3_IRQHandler
+                0x0000000008000408                I2C1_ER_IRQHandler
+                0x0000000008000408                USBWakeUp_IRQHandler
+                0x0000000008000408                DMA2_Channel3_IRQHandler
+ *(.glue_7)
+ .glue_7        0x000000000800040a        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800040a        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x000000000800040a        0x2 
+ .eh_frame      0x000000000800040c        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x000000000800040c        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+                0x000000000800040c                _init
+ .init          0x0000000008000410        0x8 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008000418        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000008000418                _fini
+ .fini          0x000000000800041c        0x8 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000008000424                . = ALIGN (0x4)
+                0x0000000008000424                _etext = .
+
+.vfp11_veneer   0x0000000008000424        0x0
+ .vfp11_veneer  0x0000000008000424        0x0 linker stubs
+
+.v4_bx          0x0000000008000424        0x0
+ .v4_bx         0x0000000008000424        0x0 linker stubs
+
+.iplt           0x0000000008000424        0x0
+ .iplt          0x0000000008000424        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rel.dyn        0x0000000008000424        0x0
+ .rel.iplt      0x0000000008000424        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x0000000008000424        0x0
+                0x0000000008000424                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000008000424                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008000424        0x0
+                0x0000000008000424                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000424                __exidx_end = .
+
+.preinit_array  0x0000000008000424        0x0
+                0x0000000008000424                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000424                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008000424        0x4
+                0x0000000008000424                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000424        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000008000428                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008000428        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008000428        0x4 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000000000800042c                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0x0 load address 0x000000000800042c
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+
+.tm_clone_table
+                0x0000000020000000        0x0 load address 0x000000000800042c
+ .tm_clone_table
+                0x0000000020000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x0000000020000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+
+.igot.plt       0x0000000020000000        0x0 load address 0x000000000800042c
+ .igot.plt      0x0000000020000000        0x0 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000020000000                . = ALIGN (0x4)
+
+.bss            0x0000000020000000       0x1c load address 0x000000000800042c
+                0x0000000020000000                _sbss = .
+                0x0000000020000000                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x0000000020000000        0x1 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ *fill*         0x0000000020000001        0x3 
+ .bss.object.0  0x0000000020000004       0x18 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(COMMON)
+                0x000000002000001c                . = ALIGN (0x4)
+                0x000000002000001c                _ebss = .
+                0x000000002000001c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000001c      0x604 load address 0x000000000800042c
+                0x0000000020000020                . = ALIGN (0x8)
+ *fill*         0x000000002000001c        0x4 
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000220                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000020      0x200 
+                0x0000000020000620                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000220      0x400 
+                0x0000000020000620                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2d Build/system_stm32f10x.o
+ .ARM.attributes
+                0x0000000000000077       0x2d Build/main.o
+ .ARM.attributes
+                0x00000000000000a4       0x2d Build/stm32f10x_it.o
+ .ARM.attributes
+                0x00000000000000d1       0x21 Build/startup_stm32f10x_hd.o
+ .ARM.attributes
+                0x00000000000000f2       0x2d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x000000000000011f       0x1d /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(Build/LED-BLINK.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/libgcc.a
+
+.comment        0x0000000000000000       0x57
+ .comment       0x0000000000000000       0x57 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+                                         0x58 (size before relaxing)
+ .comment       0x0000000000000057       0x58 Build/system_stm32f10x.o
+ .comment       0x0000000000000057       0x58 Build/main.o
+ .comment       0x0000000000000057       0x58 Build/stm32f10x_it.o
+ .comment       0x0000000000000057       0x58 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+
+.debug_info     0x0000000000000000      0x873
+ .debug_info    0x0000000000000000      0x509 Build/system_stm32f10x.o
+ .debug_info    0x0000000000000509      0x23c Build/main.o
+ .debug_info    0x0000000000000745      0x10c Build/stm32f10x_it.o
+ .debug_info    0x0000000000000851       0x22 Build/startup_stm32f10x_hd.o
+
+.debug_abbrev   0x0000000000000000      0x354
+ .debug_abbrev  0x0000000000000000      0x1d6 Build/system_stm32f10x.o
+ .debug_abbrev  0x00000000000001d6       0xf2 Build/main.o
+ .debug_abbrev  0x00000000000002c8       0x7a Build/stm32f10x_it.o
+ .debug_abbrev  0x0000000000000342       0x12 Build/startup_stm32f10x_hd.o
+
+.debug_loc      0x0000000000000000      0x161
+ .debug_loc     0x0000000000000000      0x115 Build/system_stm32f10x.o
+ .debug_loc     0x0000000000000115       0x4c Build/main.o
+
+.debug_aranges  0x0000000000000000       0xc0
+ .debug_aranges
+                0x0000000000000000       0x28 Build/system_stm32f10x.o
+ .debug_aranges
+                0x0000000000000028       0x30 Build/main.o
+ .debug_aranges
+                0x0000000000000058       0x40 Build/stm32f10x_it.o
+ .debug_aranges
+                0x0000000000000098       0x28 Build/startup_stm32f10x_hd.o
+
+.debug_ranges   0x0000000000000000       0x88
+ .debug_ranges  0x0000000000000000       0x18 Build/system_stm32f10x.o
+ .debug_ranges  0x0000000000000018       0x20 Build/main.o
+ .debug_ranges  0x0000000000000038       0x30 Build/stm32f10x_it.o
+ .debug_ranges  0x0000000000000068       0x20 Build/startup_stm32f10x_hd.o
+
+.debug_line     0x0000000000000000      0x63d
+ .debug_line    0x0000000000000000      0x322 Build/system_stm32f10x.o
+ .debug_line    0x0000000000000322      0x18b Build/main.o
+ .debug_line    0x00000000000004ad       0xdb Build/stm32f10x_it.o
+ .debug_line    0x0000000000000588       0xb5 Build/startup_stm32f10x_hd.o
+
+.debug_str      0x0000000000000000      0x3db
+ .debug_str     0x0000000000000000      0x296 Build/system_stm32f10x.o
+                                        0x2e9 (size before relaxing)
+ .debug_str     0x0000000000000296       0x39 Build/main.o
+                                        0x1b5 (size before relaxing)
+ .debug_str     0x00000000000002cf       0xa6 Build/stm32f10x_it.o
+                                        0x1cf (size before relaxing)
+ .debug_str     0x0000000000000375       0x66 Build/startup_stm32f10x_hd.o
+                                         0x86 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x128
+ .debug_frame   0x0000000000000000       0x38 Build/system_stm32f10x.o
+ .debug_frame   0x0000000000000038       0x50 Build/main.o
+ .debug_frame   0x0000000000000088       0xa0 Build/stm32f10x_it.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 Build/startup_stm32f10x_hd.o
+ADC3_IRQHandler                                   Build/startup_stm32f10x_hd.o
+ADC_AnalogWatchdogCmd                             Build/stm32f10x_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             Build/stm32f10x_adc.o
+ADC_AnalogWatchdogThresholdsConfig                Build/stm32f10x_adc.o
+ADC_AutoInjectedConvCmd                           Build/stm32f10x_adc.o
+ADC_ClearFlag                                     Build/stm32f10x_adc.o
+ADC_ClearITPendingBit                             Build/stm32f10x_adc.o
+ADC_Cmd                                           Build/stm32f10x_adc.o
+ADC_DMACmd                                        Build/stm32f10x_adc.o
+ADC_DeInit                                        Build/stm32f10x_adc.o
+ADC_DiscModeChannelCountConfig                    Build/stm32f10x_adc.o
+ADC_DiscModeCmd                                   Build/stm32f10x_adc.o
+ADC_ExternalTrigConvCmd                           Build/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvCmd                   Build/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvConfig                Build/stm32f10x_adc.o
+ADC_GetCalibrationStatus                          Build/stm32f10x_adc.o
+ADC_GetConversionValue                            Build/stm32f10x_adc.o
+ADC_GetDualModeConversionValue                    Build/stm32f10x_adc.o
+ADC_GetFlagStatus                                 Build/stm32f10x_adc.o
+ADC_GetITStatus                                   Build/stm32f10x_adc.o
+ADC_GetInjectedConversionValue                    Build/stm32f10x_adc.o
+ADC_GetResetCalibrationStatus                     Build/stm32f10x_adc.o
+ADC_GetSoftwareStartConvStatus                    Build/stm32f10x_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         Build/stm32f10x_adc.o
+ADC_ITConfig                                      Build/stm32f10x_adc.o
+ADC_Init                                          Build/stm32f10x_adc.o
+ADC_InjectedChannelConfig                         Build/stm32f10x_adc.o
+ADC_InjectedDiscModeCmd                           Build/stm32f10x_adc.o
+ADC_InjectedSequencerLengthConfig                 Build/stm32f10x_adc.o
+ADC_RegularChannelConfig                          Build/stm32f10x_adc.o
+ADC_ResetCalibration                              Build/stm32f10x_adc.o
+ADC_SetInjectedOffset                             Build/stm32f10x_adc.o
+ADC_SoftwareStartConvCmd                          Build/stm32f10x_adc.o
+ADC_SoftwareStartInjectedConvCmd                  Build/stm32f10x_adc.o
+ADC_StartCalibration                              Build/stm32f10x_adc.o
+ADC_StructInit                                    Build/stm32f10x_adc.o
+ADC_TempSensorVrefintCmd                          Build/stm32f10x_adc.o
+AHBPrescTable                                     Build/system_stm32f10x.o
+BKP_ClearFlag                                     Build/stm32f10x_bkp.o
+BKP_ClearITPendingBit                             Build/stm32f10x_bkp.o
+BKP_DeInit                                        Build/stm32f10x_bkp.o
+BKP_GetFlagStatus                                 Build/stm32f10x_bkp.o
+BKP_GetITStatus                                   Build/stm32f10x_bkp.o
+BKP_ITConfig                                      Build/stm32f10x_bkp.o
+BKP_RTCOutputConfig                               Build/stm32f10x_bkp.o
+BKP_ReadBackupRegister                            Build/stm32f10x_bkp.o
+BKP_SetRTCCalibrationValue                        Build/stm32f10x_bkp.o
+BKP_TamperPinCmd                                  Build/stm32f10x_bkp.o
+BKP_TamperPinLevelConfig                          Build/stm32f10x_bkp.o
+BKP_WriteBackupRegister                           Build/stm32f10x_bkp.o
+BusFault_Handler                                  Build/stm32f10x_it.o
+CAN1_RX1_IRQHandler                               Build/startup_stm32f10x_hd.o
+CAN1_SCE_IRQHandler                               Build/startup_stm32f10x_hd.o
+CAN_CancelTransmit                                Build/stm32f10x_can.o
+CAN_ClearFlag                                     Build/stm32f10x_can.o
+CAN_ClearITPendingBit                             Build/stm32f10x_can.o
+CAN_DBGFreeze                                     Build/stm32f10x_can.o
+CAN_DeInit                                        Build/stm32f10x_can.o
+CAN_FIFORelease                                   Build/stm32f10x_can.o
+CAN_FilterInit                                    Build/stm32f10x_can.o
+CAN_GetFlagStatus                                 Build/stm32f10x_can.o
+CAN_GetITStatus                                   Build/stm32f10x_can.o
+CAN_GetLSBTransmitErrorCounter                    Build/stm32f10x_can.o
+CAN_GetLastErrorCode                              Build/stm32f10x_can.o
+CAN_GetReceiveErrorCounter                        Build/stm32f10x_can.o
+CAN_ITConfig                                      Build/stm32f10x_can.o
+CAN_Init                                          Build/stm32f10x_can.o
+CAN_MessagePending                                Build/stm32f10x_can.o
+CAN_OperatingModeRequest                          Build/stm32f10x_can.o
+CAN_Receive                                       Build/stm32f10x_can.o
+CAN_SlaveStartBank                                Build/stm32f10x_can.o
+CAN_Sleep                                         Build/stm32f10x_can.o
+CAN_StructInit                                    Build/stm32f10x_can.o
+CAN_TTComModeCmd                                  Build/stm32f10x_can.o
+CAN_Transmit                                      Build/stm32f10x_can.o
+CAN_TransmitStatus                                Build/stm32f10x_can.o
+CAN_WakeUp                                        Build/stm32f10x_can.o
+CEC_ClearFlag                                     Build/stm32f10x_cec.o
+CEC_ClearITPendingBit                             Build/stm32f10x_cec.o
+CEC_Cmd                                           Build/stm32f10x_cec.o
+CEC_DeInit                                        Build/stm32f10x_cec.o
+CEC_EndOfMessageCmd                               Build/stm32f10x_cec.o
+CEC_GetFlagStatus                                 Build/stm32f10x_cec.o
+CEC_GetITStatus                                   Build/stm32f10x_cec.o
+CEC_ITConfig                                      Build/stm32f10x_cec.o
+CEC_Init                                          Build/stm32f10x_cec.o
+CEC_OwnAddressConfig                              Build/stm32f10x_cec.o
+CEC_ReceiveDataByte                               Build/stm32f10x_cec.o
+CEC_SendDataByte                                  Build/stm32f10x_cec.o
+CEC_SetPrescaler                                  Build/stm32f10x_cec.o
+CEC_StartOfMessage                                Build/stm32f10x_cec.o
+CRC_CalcBlockCRC                                  Build/stm32f10x_crc.o
+CRC_CalcCRC                                       Build/stm32f10x_crc.o
+CRC_GetCRC                                        Build/stm32f10x_crc.o
+CRC_GetIDRegister                                 Build/stm32f10x_crc.o
+CRC_ResetDR                                       Build/stm32f10x_crc.o
+CRC_SetIDRegister                                 Build/stm32f10x_crc.o
+DAC_Cmd                                           Build/stm32f10x_dac.o
+DAC_DMACmd                                        Build/stm32f10x_dac.o
+DAC_DeInit                                        Build/stm32f10x_dac.o
+DAC_DualSoftwareTriggerCmd                        Build/stm32f10x_dac.o
+DAC_GetDataOutputValue                            Build/stm32f10x_dac.o
+DAC_Init                                          Build/stm32f10x_dac.o
+DAC_SetChannel1Data                               Build/stm32f10x_dac.o
+DAC_SetChannel2Data                               Build/stm32f10x_dac.o
+DAC_SetDualChannelData                            Build/stm32f10x_dac.o
+DAC_SoftwareTriggerCmd                            Build/stm32f10x_dac.o
+DAC_StructInit                                    Build/stm32f10x_dac.o
+DAC_WaveGenerationCmd                             Build/stm32f10x_dac.o
+DBGMCU_Config                                     Build/stm32f10x_dbgmcu.o
+DBGMCU_GetDEVID                                   Build/stm32f10x_dbgmcu.o
+DBGMCU_GetREVID                                   Build/stm32f10x_dbgmcu.o
+DMA1_Channel1_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel2_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel3_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel4_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel5_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel6_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA1_Channel7_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA2_Channel1_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA2_Channel2_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA2_Channel3_IRQHandler                          Build/startup_stm32f10x_hd.o
+DMA2_Channel4_5_IRQHandler                        Build/startup_stm32f10x_hd.o
+DMA_ClearFlag                                     Build/stm32f10x_dma.o
+DMA_ClearITPendingBit                             Build/stm32f10x_dma.o
+DMA_Cmd                                           Build/stm32f10x_dma.o
+DMA_DeInit                                        Build/stm32f10x_dma.o
+DMA_GetCurrDataCounter                            Build/stm32f10x_dma.o
+DMA_GetFlagStatus                                 Build/stm32f10x_dma.o
+DMA_GetITStatus                                   Build/stm32f10x_dma.o
+DMA_ITConfig                                      Build/stm32f10x_dma.o
+DMA_Init                                          Build/stm32f10x_dma.o
+DMA_SetCurrDataCounter                            Build/stm32f10x_dma.o
+DMA_StructInit                                    Build/stm32f10x_dma.o
+DebugMon_Handler                                  Build/stm32f10x_it.o
+Default_Handler                                   Build/startup_stm32f10x_hd.o
+EXTI0_IRQHandler                                  Build/startup_stm32f10x_hd.o
+EXTI15_10_IRQHandler                              Build/startup_stm32f10x_hd.o
+EXTI1_IRQHandler                                  Build/startup_stm32f10x_hd.o
+EXTI2_IRQHandler                                  Build/startup_stm32f10x_hd.o
+EXTI3_IRQHandler                                  Build/startup_stm32f10x_hd.o
+EXTI4_IRQHandler                                  Build/startup_stm32f10x_hd.o
+EXTI9_5_IRQHandler                                Build/startup_stm32f10x_hd.o
+EXTI_ClearFlag                                    Build/stm32f10x_exti.o
+EXTI_ClearITPendingBit                            Build/stm32f10x_exti.o
+EXTI_DeInit                                       Build/stm32f10x_exti.o
+EXTI_GenerateSWInterrupt                          Build/stm32f10x_exti.o
+EXTI_GetFlagStatus                                Build/stm32f10x_exti.o
+EXTI_GetITStatus                                  Build/stm32f10x_exti.o
+EXTI_Init                                         Build/stm32f10x_exti.o
+EXTI_StructInit                                   Build/stm32f10x_exti.o
+FLASH_ClearFlag                                   Build/stm32f10x_flash.o
+FLASH_EnableWriteProtection                       Build/stm32f10x_flash.o
+FLASH_EraseAllBank1Pages                          Build/stm32f10x_flash.o
+FLASH_EraseAllPages                               Build/stm32f10x_flash.o
+FLASH_EraseOptionBytes                            Build/stm32f10x_flash.o
+FLASH_ErasePage                                   Build/stm32f10x_flash.o
+FLASH_GetBank1Status                              Build/stm32f10x_flash.o
+FLASH_GetFlagStatus                               Build/stm32f10x_flash.o
+FLASH_GetPrefetchBufferStatus                     Build/stm32f10x_flash.o
+FLASH_GetReadOutProtectionStatus                  Build/stm32f10x_flash.o
+FLASH_GetStatus                                   Build/stm32f10x_flash.o
+FLASH_GetUserOptionByte                           Build/stm32f10x_flash.o
+FLASH_GetWriteProtectionOptionByte                Build/stm32f10x_flash.o
+FLASH_HalfCycleAccessCmd                          Build/stm32f10x_flash.o
+FLASH_IRQHandler                                  Build/startup_stm32f10x_hd.o
+FLASH_ITConfig                                    Build/stm32f10x_flash.o
+FLASH_Lock                                        Build/stm32f10x_flash.o
+FLASH_LockBank1                                   Build/stm32f10x_flash.o
+FLASH_PrefetchBufferCmd                           Build/stm32f10x_flash.o
+FLASH_ProgramHalfWord                             Build/stm32f10x_flash.o
+FLASH_ProgramOptionByteData                       Build/stm32f10x_flash.o
+FLASH_ProgramWord                                 Build/stm32f10x_flash.o
+FLASH_ReadOutProtection                           Build/stm32f10x_flash.o
+FLASH_SetLatency                                  Build/stm32f10x_flash.o
+FLASH_Unlock                                      Build/stm32f10x_flash.o
+FLASH_UnlockBank1                                 Build/stm32f10x_flash.o
+FLASH_UserOptionByteConfig                        Build/stm32f10x_flash.o
+FLASH_WaitForLastBank1Operation                   Build/stm32f10x_flash.o
+FLASH_WaitForLastOperation                        Build/stm32f10x_flash.o
+FSMC_ClearFlag                                    Build/stm32f10x_fsmc.o
+FSMC_ClearITPendingBit                            Build/stm32f10x_fsmc.o
+FSMC_GetECC                                       Build/stm32f10x_fsmc.o
+FSMC_GetFlagStatus                                Build/stm32f10x_fsmc.o
+FSMC_GetITStatus                                  Build/stm32f10x_fsmc.o
+FSMC_IRQHandler                                   Build/startup_stm32f10x_hd.o
+FSMC_ITConfig                                     Build/stm32f10x_fsmc.o
+FSMC_NANDCmd                                      Build/stm32f10x_fsmc.o
+FSMC_NANDDeInit                                   Build/stm32f10x_fsmc.o
+FSMC_NANDECCCmd                                   Build/stm32f10x_fsmc.o
+FSMC_NANDInit                                     Build/stm32f10x_fsmc.o
+FSMC_NANDStructInit                               Build/stm32f10x_fsmc.o
+FSMC_NORSRAMCmd                                   Build/stm32f10x_fsmc.o
+FSMC_NORSRAMDeInit                                Build/stm32f10x_fsmc.o
+FSMC_NORSRAMInit                                  Build/stm32f10x_fsmc.o
+FSMC_NORSRAMStructInit                            Build/stm32f10x_fsmc.o
+FSMC_PCCARDCmd                                    Build/stm32f10x_fsmc.o
+FSMC_PCCARDDeInit                                 Build/stm32f10x_fsmc.o
+FSMC_PCCARDInit                                   Build/stm32f10x_fsmc.o
+FSMC_PCCARDStructInit                             Build/stm32f10x_fsmc.o
+GPIO_AFIODeInit                                   Build/stm32f10x_gpio.o
+GPIO_DeInit                                       Build/stm32f10x_gpio.o
+GPIO_ETH_MediaInterfaceConfig                     Build/stm32f10x_gpio.o
+GPIO_EXTILineConfig                               Build/stm32f10x_gpio.o
+GPIO_EventOutputCmd                               Build/stm32f10x_gpio.o
+GPIO_EventOutputConfig                            Build/stm32f10x_gpio.o
+GPIO_Init                                         Build/stm32f10x_gpio.o
+GPIO_PinLockConfig                                Build/stm32f10x_gpio.o
+GPIO_PinRemapConfig                               Build/stm32f10x_gpio.o
+GPIO_ReadInputData                                Build/stm32f10x_gpio.o
+GPIO_ReadInputDataBit                             Build/stm32f10x_gpio.o
+GPIO_ReadOutputData                               Build/stm32f10x_gpio.o
+GPIO_ReadOutputDataBit                            Build/stm32f10x_gpio.o
+GPIO_ResetBits                                    Build/stm32f10x_gpio.o
+GPIO_SetBits                                      Build/stm32f10x_gpio.o
+GPIO_StructInit                                   Build/stm32f10x_gpio.o
+GPIO_Write                                        Build/stm32f10x_gpio.o
+GPIO_WriteBit                                     Build/stm32f10x_gpio.o
+HardFault_Handler                                 Build/stm32f10x_it.o
+I2C1_ER_IRQHandler                                Build/startup_stm32f10x_hd.o
+I2C1_EV_IRQHandler                                Build/startup_stm32f10x_hd.o
+I2C2_ER_IRQHandler                                Build/startup_stm32f10x_hd.o
+I2C2_EV_IRQHandler                                Build/startup_stm32f10x_hd.o
+I2C_ARPCmd                                        Build/stm32f10x_i2c.o
+I2C_AcknowledgeConfig                             Build/stm32f10x_i2c.o
+I2C_CalculatePEC                                  Build/stm32f10x_i2c.o
+I2C_CheckEvent                                    Build/stm32f10x_i2c.o
+I2C_ClearFlag                                     Build/stm32f10x_i2c.o
+I2C_ClearITPendingBit                             Build/stm32f10x_i2c.o
+I2C_Cmd                                           Build/stm32f10x_i2c.o
+I2C_DMACmd                                        Build/stm32f10x_i2c.o
+I2C_DMALastTransferCmd                            Build/stm32f10x_i2c.o
+I2C_DeInit                                        Build/stm32f10x_i2c.o
+I2C_DualAddressCmd                                Build/stm32f10x_i2c.o
+I2C_FastModeDutyCycleConfig                       Build/stm32f10x_i2c.o
+I2C_GeneralCallCmd                                Build/stm32f10x_i2c.o
+I2C_GenerateSTART                                 Build/stm32f10x_i2c.o
+I2C_GenerateSTOP                                  Build/stm32f10x_i2c.o
+I2C_GetFlagStatus                                 Build/stm32f10x_i2c.o
+I2C_GetITStatus                                   Build/stm32f10x_i2c.o
+I2C_GetLastEvent                                  Build/stm32f10x_i2c.o
+I2C_GetPEC                                        Build/stm32f10x_i2c.o
+I2C_ITConfig                                      Build/stm32f10x_i2c.o
+I2C_Init                                          Build/stm32f10x_i2c.o
+I2C_NACKPositionConfig                            Build/stm32f10x_i2c.o
+I2C_OwnAddress2Config                             Build/stm32f10x_i2c.o
+I2C_PECPositionConfig                             Build/stm32f10x_i2c.o
+I2C_ReadRegister                                  Build/stm32f10x_i2c.o
+I2C_ReceiveData                                   Build/stm32f10x_i2c.o
+I2C_SMBusAlertConfig                              Build/stm32f10x_i2c.o
+I2C_Send7bitAddress                               Build/stm32f10x_i2c.o
+I2C_SendData                                      Build/stm32f10x_i2c.o
+I2C_SoftwareResetCmd                              Build/stm32f10x_i2c.o
+I2C_StretchClockCmd                               Build/stm32f10x_i2c.o
+I2C_StructInit                                    Build/stm32f10x_i2c.o
+I2C_TransmitPEC                                   Build/stm32f10x_i2c.o
+I2S_Cmd                                           Build/stm32f10x_spi.o
+I2S_Init                                          Build/stm32f10x_spi.o
+I2S_StructInit                                    Build/stm32f10x_spi.o
+IWDG_Enable                                       Build/stm32f10x_iwdg.o
+IWDG_GetFlagStatus                                Build/stm32f10x_iwdg.o
+IWDG_ReloadCounter                                Build/stm32f10x_iwdg.o
+IWDG_SetPrescaler                                 Build/stm32f10x_iwdg.o
+IWDG_SetReload                                    Build/stm32f10x_iwdg.o
+IWDG_WriteAccessCmd                               Build/stm32f10x_iwdg.o
+LED_Init                                          Build/main.o
+MemManage_Handler                                 Build/stm32f10x_it.o
+NMI_Handler                                       Build/stm32f10x_it.o
+NVIC_Init                                         Build/misc.o
+NVIC_PriorityGroupConfig                          Build/misc.o
+NVIC_SetVectorTable                               Build/misc.o
+NVIC_SystemLPConfig                               Build/misc.o
+PVD_IRQHandler                                    Build/startup_stm32f10x_hd.o
+PWR_BackupAccessCmd                               Build/stm32f10x_pwr.o
+PWR_ClearFlag                                     Build/stm32f10x_pwr.o
+PWR_DeInit                                        Build/stm32f10x_pwr.o
+PWR_EnterSTANDBYMode                              Build/stm32f10x_pwr.o
+PWR_EnterSTOPMode                                 Build/stm32f10x_pwr.o
+PWR_GetFlagStatus                                 Build/stm32f10x_pwr.o
+PWR_PVDCmd                                        Build/stm32f10x_pwr.o
+PWR_PVDLevelConfig                                Build/stm32f10x_pwr.o
+PWR_WakeUpPinCmd                                  Build/stm32f10x_pwr.o
+PendSV_Handler                                    Build/stm32f10x_it.o
+RCC_ADCCLKConfig                                  Build/stm32f10x_rcc.o
+RCC_AHBPeriphClockCmd                             Build/stm32f10x_rcc.o
+RCC_APB1PeriphClockCmd                            Build/stm32f10x_rcc.o
+RCC_APB1PeriphResetCmd                            Build/stm32f10x_rcc.o
+                                                  Build/stm32f10x_wwdg.o
+                                                  Build/stm32f10x_usart.o
+                                                  Build/stm32f10x_tim.o
+                                                  Build/stm32f10x_spi.o
+                                                  Build/stm32f10x_pwr.o
+                                                  Build/stm32f10x_i2c.o
+                                                  Build/stm32f10x_dac.o
+                                                  Build/stm32f10x_cec.o
+                                                  Build/stm32f10x_can.o
+RCC_APB2PeriphClockCmd                            Build/stm32f10x_rcc.o
+RCC_APB2PeriphResetCmd                            Build/stm32f10x_rcc.o
+                                                  Build/stm32f10x_usart.o
+                                                  Build/stm32f10x_tim.o
+                                                  Build/stm32f10x_spi.o
+                                                  Build/stm32f10x_gpio.o
+                                                  Build/stm32f10x_adc.o
+RCC_AdjustHSICalibrationValue                     Build/stm32f10x_rcc.o
+RCC_BackupResetCmd                                Build/stm32f10x_rcc.o
+                                                  Build/stm32f10x_bkp.o
+RCC_ClearFlag                                     Build/stm32f10x_rcc.o
+RCC_ClearITPendingBit                             Build/stm32f10x_rcc.o
+RCC_ClockSecuritySystemCmd                        Build/stm32f10x_rcc.o
+RCC_DeInit                                        Build/stm32f10x_rcc.o
+RCC_GetClocksFreq                                 Build/stm32f10x_rcc.o
+                                                  Build/stm32f10x_usart.o
+                                                  Build/stm32f10x_spi.o
+                                                  Build/stm32f10x_i2c.o
+RCC_GetFlagStatus                                 Build/stm32f10x_rcc.o
+RCC_GetITStatus                                   Build/stm32f10x_rcc.o
+RCC_GetSYSCLKSource                               Build/stm32f10x_rcc.o
+RCC_HCLKConfig                                    Build/stm32f10x_rcc.o
+RCC_HSEConfig                                     Build/stm32f10x_rcc.o
+RCC_HSICmd                                        Build/stm32f10x_rcc.o
+RCC_IRQHandler                                    Build/startup_stm32f10x_hd.o
+RCC_ITConfig                                      Build/stm32f10x_rcc.o
+RCC_LSEConfig                                     Build/stm32f10x_rcc.o
+RCC_LSICmd                                        Build/stm32f10x_rcc.o
+RCC_MCOConfig                                     Build/stm32f10x_rcc.o
+RCC_PCLK1Config                                   Build/stm32f10x_rcc.o
+RCC_PCLK2Config                                   Build/stm32f10x_rcc.o
+RCC_PLLCmd                                        Build/stm32f10x_rcc.o
+RCC_PLLConfig                                     Build/stm32f10x_rcc.o
+RCC_RTCCLKCmd                                     Build/stm32f10x_rcc.o
+RCC_RTCCLKConfig                                  Build/stm32f10x_rcc.o
+RCC_SYSCLKConfig                                  Build/stm32f10x_rcc.o
+RCC_USBCLKConfig                                  Build/stm32f10x_rcc.o
+RCC_WaitForHSEStartUp                             Build/stm32f10x_rcc.o
+RTCAlarm_IRQHandler                               Build/startup_stm32f10x_hd.o
+RTC_ClearFlag                                     Build/stm32f10x_rtc.o
+RTC_ClearITPendingBit                             Build/stm32f10x_rtc.o
+RTC_EnterConfigMode                               Build/stm32f10x_rtc.o
+RTC_ExitConfigMode                                Build/stm32f10x_rtc.o
+RTC_GetCounter                                    Build/stm32f10x_rtc.o
+RTC_GetDivider                                    Build/stm32f10x_rtc.o
+RTC_GetFlagStatus                                 Build/stm32f10x_rtc.o
+RTC_GetITStatus                                   Build/stm32f10x_rtc.o
+RTC_IRQHandler                                    Build/startup_stm32f10x_hd.o
+RTC_ITConfig                                      Build/stm32f10x_rtc.o
+RTC_SetAlarm                                      Build/stm32f10x_rtc.o
+RTC_SetCounter                                    Build/stm32f10x_rtc.o
+RTC_SetPrescaler                                  Build/stm32f10x_rtc.o
+RTC_WaitForLastTask                               Build/stm32f10x_rtc.o
+RTC_WaitForSynchro                                Build/stm32f10x_rtc.o
+Reset_Handler                                     Build/startup_stm32f10x_hd.o
+SDIO_CEATAITCmd                                   Build/stm32f10x_sdio.o
+SDIO_ClearFlag                                    Build/stm32f10x_sdio.o
+SDIO_ClearITPendingBit                            Build/stm32f10x_sdio.o
+SDIO_ClockCmd                                     Build/stm32f10x_sdio.o
+SDIO_CmdStructInit                                Build/stm32f10x_sdio.o
+SDIO_CommandCompletionCmd                         Build/stm32f10x_sdio.o
+SDIO_DMACmd                                       Build/stm32f10x_sdio.o
+SDIO_DataConfig                                   Build/stm32f10x_sdio.o
+SDIO_DataStructInit                               Build/stm32f10x_sdio.o
+SDIO_DeInit                                       Build/stm32f10x_sdio.o
+SDIO_GetCommandResponse                           Build/stm32f10x_sdio.o
+SDIO_GetDataCounter                               Build/stm32f10x_sdio.o
+SDIO_GetFIFOCount                                 Build/stm32f10x_sdio.o
+SDIO_GetFlagStatus                                Build/stm32f10x_sdio.o
+SDIO_GetITStatus                                  Build/stm32f10x_sdio.o
+SDIO_GetPowerState                                Build/stm32f10x_sdio.o
+SDIO_GetResponse                                  Build/stm32f10x_sdio.o
+SDIO_IRQHandler                                   Build/startup_stm32f10x_hd.o
+SDIO_ITConfig                                     Build/stm32f10x_sdio.o
+SDIO_Init                                         Build/stm32f10x_sdio.o
+SDIO_ReadData                                     Build/stm32f10x_sdio.o
+SDIO_SendCEATACmd                                 Build/stm32f10x_sdio.o
+SDIO_SendCommand                                  Build/stm32f10x_sdio.o
+SDIO_SendSDIOSuspendCmd                           Build/stm32f10x_sdio.o
+SDIO_SetPowerState                                Build/stm32f10x_sdio.o
+SDIO_SetSDIOOperation                             Build/stm32f10x_sdio.o
+SDIO_SetSDIOReadWaitMode                          Build/stm32f10x_sdio.o
+SDIO_StartSDIOReadWait                            Build/stm32f10x_sdio.o
+SDIO_StopSDIOReadWait                             Build/stm32f10x_sdio.o
+SDIO_StructInit                                   Build/stm32f10x_sdio.o
+SDIO_WriteData                                    Build/stm32f10x_sdio.o
+SPI1_IRQHandler                                   Build/startup_stm32f10x_hd.o
+SPI2_IRQHandler                                   Build/startup_stm32f10x_hd.o
+SPI3_IRQHandler                                   Build/startup_stm32f10x_hd.o
+SPI_BiDirectionalLineConfig                       Build/stm32f10x_spi.o
+SPI_CalculateCRC                                  Build/stm32f10x_spi.o
+SPI_Cmd                                           Build/stm32f10x_spi.o
+SPI_DataSizeConfig                                Build/stm32f10x_spi.o
+SPI_GetCRC                                        Build/stm32f10x_spi.o
+SPI_GetCRCPolynomial                              Build/stm32f10x_spi.o
+SPI_I2S_ClearFlag                                 Build/stm32f10x_spi.o
+SPI_I2S_ClearITPendingBit                         Build/stm32f10x_spi.o
+SPI_I2S_DMACmd                                    Build/stm32f10x_spi.o
+SPI_I2S_DeInit                                    Build/stm32f10x_spi.o
+SPI_I2S_GetFlagStatus                             Build/stm32f10x_spi.o
+SPI_I2S_GetITStatus                               Build/stm32f10x_spi.o
+SPI_I2S_ITConfig                                  Build/stm32f10x_spi.o
+SPI_I2S_ReceiveData                               Build/stm32f10x_spi.o
+SPI_I2S_SendData                                  Build/stm32f10x_spi.o
+SPI_Init                                          Build/stm32f10x_spi.o
+SPI_NSSInternalSoftwareConfig                     Build/stm32f10x_spi.o
+SPI_SSOutputCmd                                   Build/stm32f10x_spi.o
+SPI_StructInit                                    Build/stm32f10x_spi.o
+SPI_TransmitCRC                                   Build/stm32f10x_spi.o
+SVC_Handler                                       Build/stm32f10x_it.o
+SysTick_CLKSourceConfig                           Build/misc.o
+SysTick_Handler                                   Build/stm32f10x_it.o
+SystemCoreClock                                   Build/system_stm32f10x.o
+SystemCoreClockUpdate                             Build/system_stm32f10x.o
+SystemInit                                        Build/system_stm32f10x.o
+                                                  Build/startup_stm32f10x_hd.o
+TAMPER_IRQHandler                                 Build/startup_stm32f10x_hd.o
+TIM1_BRK_IRQHandler                               Build/startup_stm32f10x_hd.o
+TIM1_CC_IRQHandler                                Build/startup_stm32f10x_hd.o
+TIM1_TRG_COM_IRQHandler                           Build/startup_stm32f10x_hd.o
+TIM1_UP_IRQHandler                                Build/startup_stm32f10x_hd.o
+TIM2_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM3_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM4_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM5_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM6_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM7_IRQHandler                                   Build/startup_stm32f10x_hd.o
+TIM8_BRK_IRQHandler                               Build/startup_stm32f10x_hd.o
+TIM8_CC_IRQHandler                                Build/startup_stm32f10x_hd.o
+TIM8_TRG_COM_IRQHandler                           Build/startup_stm32f10x_hd.o
+TIM8_UP_IRQHandler                                Build/startup_stm32f10x_hd.o
+TIM_ARRPreloadConfig                              Build/stm32f10x_tim.o
+TIM_BDTRConfig                                    Build/stm32f10x_tim.o
+TIM_BDTRStructInit                                Build/stm32f10x_tim.o
+TIM_CCPreloadControl                              Build/stm32f10x_tim.o
+TIM_CCxCmd                                        Build/stm32f10x_tim.o
+TIM_CCxNCmd                                       Build/stm32f10x_tim.o
+TIM_ClearFlag                                     Build/stm32f10x_tim.o
+TIM_ClearITPendingBit                             Build/stm32f10x_tim.o
+TIM_ClearOC1Ref                                   Build/stm32f10x_tim.o
+TIM_ClearOC2Ref                                   Build/stm32f10x_tim.o
+TIM_ClearOC3Ref                                   Build/stm32f10x_tim.o
+TIM_ClearOC4Ref                                   Build/stm32f10x_tim.o
+TIM_Cmd                                           Build/stm32f10x_tim.o
+TIM_CounterModeConfig                             Build/stm32f10x_tim.o
+TIM_CtrlPWMOutputs                                Build/stm32f10x_tim.o
+TIM_DMACmd                                        Build/stm32f10x_tim.o
+TIM_DMAConfig                                     Build/stm32f10x_tim.o
+TIM_DeInit                                        Build/stm32f10x_tim.o
+TIM_ETRClockMode1Config                           Build/stm32f10x_tim.o
+TIM_ETRClockMode2Config                           Build/stm32f10x_tim.o
+TIM_ETRConfig                                     Build/stm32f10x_tim.o
+TIM_EncoderInterfaceConfig                        Build/stm32f10x_tim.o
+TIM_ForcedOC1Config                               Build/stm32f10x_tim.o
+TIM_ForcedOC2Config                               Build/stm32f10x_tim.o
+TIM_ForcedOC3Config                               Build/stm32f10x_tim.o
+TIM_ForcedOC4Config                               Build/stm32f10x_tim.o
+TIM_GenerateEvent                                 Build/stm32f10x_tim.o
+TIM_GetCapture1                                   Build/stm32f10x_tim.o
+TIM_GetCapture2                                   Build/stm32f10x_tim.o
+TIM_GetCapture3                                   Build/stm32f10x_tim.o
+TIM_GetCapture4                                   Build/stm32f10x_tim.o
+TIM_GetCounter                                    Build/stm32f10x_tim.o
+TIM_GetFlagStatus                                 Build/stm32f10x_tim.o
+TIM_GetITStatus                                   Build/stm32f10x_tim.o
+TIM_GetPrescaler                                  Build/stm32f10x_tim.o
+TIM_ICInit                                        Build/stm32f10x_tim.o
+TIM_ICStructInit                                  Build/stm32f10x_tim.o
+TIM_ITConfig                                      Build/stm32f10x_tim.o
+TIM_ITRxExternalClockConfig                       Build/stm32f10x_tim.o
+TIM_InternalClockConfig                           Build/stm32f10x_tim.o
+TIM_OC1FastConfig                                 Build/stm32f10x_tim.o
+TIM_OC1Init                                       Build/stm32f10x_tim.o
+TIM_OC1NPolarityConfig                            Build/stm32f10x_tim.o
+TIM_OC1PolarityConfig                             Build/stm32f10x_tim.o
+TIM_OC1PreloadConfig                              Build/stm32f10x_tim.o
+TIM_OC2FastConfig                                 Build/stm32f10x_tim.o
+TIM_OC2Init                                       Build/stm32f10x_tim.o
+TIM_OC2NPolarityConfig                            Build/stm32f10x_tim.o
+TIM_OC2PolarityConfig                             Build/stm32f10x_tim.o
+TIM_OC2PreloadConfig                              Build/stm32f10x_tim.o
+TIM_OC3FastConfig                                 Build/stm32f10x_tim.o
+TIM_OC3Init                                       Build/stm32f10x_tim.o
+TIM_OC3NPolarityConfig                            Build/stm32f10x_tim.o
+TIM_OC3PolarityConfig                             Build/stm32f10x_tim.o
+TIM_OC3PreloadConfig                              Build/stm32f10x_tim.o
+TIM_OC4FastConfig                                 Build/stm32f10x_tim.o
+TIM_OC4Init                                       Build/stm32f10x_tim.o
+TIM_OC4PolarityConfig                             Build/stm32f10x_tim.o
+TIM_OC4PreloadConfig                              Build/stm32f10x_tim.o
+TIM_OCStructInit                                  Build/stm32f10x_tim.o
+TIM_PWMIConfig                                    Build/stm32f10x_tim.o
+TIM_PrescalerConfig                               Build/stm32f10x_tim.o
+TIM_SelectCCDMA                                   Build/stm32f10x_tim.o
+TIM_SelectCOM                                     Build/stm32f10x_tim.o
+TIM_SelectHallSensor                              Build/stm32f10x_tim.o
+TIM_SelectInputTrigger                            Build/stm32f10x_tim.o
+TIM_SelectMasterSlaveMode                         Build/stm32f10x_tim.o
+TIM_SelectOCxM                                    Build/stm32f10x_tim.o
+TIM_SelectOnePulseMode                            Build/stm32f10x_tim.o
+TIM_SelectOutputTrigger                           Build/stm32f10x_tim.o
+TIM_SelectSlaveMode                               Build/stm32f10x_tim.o
+TIM_SetAutoreload                                 Build/stm32f10x_tim.o
+TIM_SetClockDivision                              Build/stm32f10x_tim.o
+TIM_SetCompare1                                   Build/stm32f10x_tim.o
+TIM_SetCompare2                                   Build/stm32f10x_tim.o
+TIM_SetCompare3                                   Build/stm32f10x_tim.o
+TIM_SetCompare4                                   Build/stm32f10x_tim.o
+TIM_SetCounter                                    Build/stm32f10x_tim.o
+TIM_SetIC1Prescaler                               Build/stm32f10x_tim.o
+TIM_SetIC2Prescaler                               Build/stm32f10x_tim.o
+TIM_SetIC3Prescaler                               Build/stm32f10x_tim.o
+TIM_SetIC4Prescaler                               Build/stm32f10x_tim.o
+TIM_TIxExternalClockConfig                        Build/stm32f10x_tim.o
+TIM_TimeBaseInit                                  Build/stm32f10x_tim.o
+TIM_TimeBaseStructInit                            Build/stm32f10x_tim.o
+TIM_UpdateDisableConfig                           Build/stm32f10x_tim.o
+TIM_UpdateRequestConfig                           Build/stm32f10x_tim.o
+UART4_IRQHandler                                  Build/startup_stm32f10x_hd.o
+UART5_IRQHandler                                  Build/startup_stm32f10x_hd.o
+USART1_IRQHandler                                 Build/startup_stm32f10x_hd.o
+USART2_IRQHandler                                 Build/startup_stm32f10x_hd.o
+USART3_IRQHandler                                 Build/startup_stm32f10x_hd.o
+USART_ClearFlag                                   Build/stm32f10x_usart.o
+USART_ClearITPendingBit                           Build/stm32f10x_usart.o
+USART_ClockInit                                   Build/stm32f10x_usart.o
+USART_ClockStructInit                             Build/stm32f10x_usart.o
+USART_Cmd                                         Build/stm32f10x_usart.o
+USART_DMACmd                                      Build/stm32f10x_usart.o
+USART_DeInit                                      Build/stm32f10x_usart.o
+USART_GetFlagStatus                               Build/stm32f10x_usart.o
+USART_GetITStatus                                 Build/stm32f10x_usart.o
+USART_HalfDuplexCmd                               Build/stm32f10x_usart.o
+USART_ITConfig                                    Build/stm32f10x_usart.o
+USART_Init                                        Build/stm32f10x_usart.o
+USART_IrDACmd                                     Build/stm32f10x_usart.o
+USART_IrDAConfig                                  Build/stm32f10x_usart.o
+USART_LINBreakDetectLengthConfig                  Build/stm32f10x_usart.o
+USART_LINCmd                                      Build/stm32f10x_usart.o
+USART_OneBitMethodCmd                             Build/stm32f10x_usart.o
+USART_OverSampling8Cmd                            Build/stm32f10x_usart.o
+USART_ReceiveData                                 Build/stm32f10x_usart.o
+USART_ReceiverWakeUpCmd                           Build/stm32f10x_usart.o
+USART_SendBreak                                   Build/stm32f10x_usart.o
+USART_SendData                                    Build/stm32f10x_usart.o
+USART_SetAddress                                  Build/stm32f10x_usart.o
+USART_SetGuardTime                                Build/stm32f10x_usart.o
+USART_SetPrescaler                                Build/stm32f10x_usart.o
+USART_SmartCardCmd                                Build/stm32f10x_usart.o
+USART_SmartCardNACKCmd                            Build/stm32f10x_usart.o
+USART_StructInit                                  Build/stm32f10x_usart.o
+USART_WakeUpConfig                                Build/stm32f10x_usart.o
+USBWakeUp_IRQHandler                              Build/startup_stm32f10x_hd.o
+USB_HP_CAN1_TX_IRQHandler                         Build/startup_stm32f10x_hd.o
+USB_LP_CAN1_RX0_IRQHandler                        Build/startup_stm32f10x_hd.o
+UsageFault_Handler                                Build/stm32f10x_it.o
+WWDG_ClearFlag                                    Build/stm32f10x_wwdg.o
+WWDG_DeInit                                       Build/stm32f10x_wwdg.o
+WWDG_Enable                                       Build/stm32f10x_wwdg.o
+WWDG_EnableIT                                     Build/stm32f10x_wwdg.o
+WWDG_GetFlagStatus                                Build/stm32f10x_wwdg.o
+WWDG_IRQHandler                                   Build/startup_stm32f10x_hd.o
+WWDG_SetCounter                                   Build/stm32f10x_wwdg.o
+WWDG_SetPrescaler                                 Build/stm32f10x_wwdg.o
+WWDG_SetWindowValue                               Build/stm32f10x_wwdg.o
+_ITM_deregisterTMCloneTable                       /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+_ITM_registerTMCloneTable                         /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+__LDREXB                                          Build/core_cm3.o
+__LDREXH                                          Build/core_cm3.o
+__LDREXW                                          Build/core_cm3.o
+__RBIT                                            Build/core_cm3.o
+__REV                                             Build/core_cm3.o
+__REV16                                           Build/core_cm3.o
+__REVSH                                           Build/core_cm3.o
+__STREXB                                          Build/core_cm3.o
+__STREXH                                          Build/core_cm3.o
+__STREXW                                          Build/core_cm3.o
+__TMC_END__                                       /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtend.o
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+__bss_end__                                       /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__bss_start__                                     /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__call_exitprocs                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+__dso_handle                                      /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+__get_BASEPRI                                     Build/core_cm3.o
+__get_CONTROL                                     Build/core_cm3.o
+__get_FAULTMASK                                   Build/core_cm3.o
+__get_MSP                                         Build/core_cm3.o
+__get_PRIMASK                                     Build/core_cm3.o
+__get_PSP                                         Build/core_cm3.o
+__init_array_end                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__init_array_start                                /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__libc_init_array                                 /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__preinit_array_end                               /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__preinit_array_start                             /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+__register_frame_info                             /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crtbegin.o
+__set_BASEPRI                                     Build/core_cm3.o
+__set_CONTROL                                     Build/core_cm3.o
+__set_FAULTMASK                                   Build/core_cm3.o
+__set_MSP                                         Build/core_cm3.o
+__set_PRIMASK                                     Build/core_cm3.o
+__set_PSP                                         Build/core_cm3.o
+__sf_fake_stderr                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+__stack                                           /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_ebss                                             Build/startup_stm32f10x_hd.o
+_edata                                            Build/startup_stm32f10x_hd.o
+_estack                                           Build/startup_stm32f10x_hd.o
+_exit                                             /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+_fini                                             /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+_global_impure_ptr                                /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+_init                                             /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/thumb/v7-m/nofp/crti.o
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_sbss                                             Build/startup_stm32f10x_hd.o
+_sdata                                            Build/startup_stm32f10x_hd.o
+_sidata                                           Build/startup_stm32f10x_hd.o
+_stack_init                                       /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_start                                            /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+atexit                                            /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+delay                                             Build/main.o
+exit                                              /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+g_pfnVectors                                      Build/startup_stm32f10x_hd.o
+hardware_init_hook                                /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+main                                              Build/main.o
+                                                  Build/startup_stm32f10x_hd.o
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+memset                                            /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                                                  /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+software_init_hook                                /opt/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/11.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
